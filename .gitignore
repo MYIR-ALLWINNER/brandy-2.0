@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+u-boot-2018
+gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi
+./tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi.tar.xz
